@@ -11,5 +11,9 @@ NameVariable()
 name = "victor"
 print(name)
 
+#del(name)
+#this would result to a traceback error name undefined
+#print(name)
+
 
 
